@@ -7,8 +7,8 @@
 - **Domain:** Power BI  
 - **Batch Duration:** 6 Weeks (May 20th – July 5th)  
 - **Mentor:** Neela Santhosh Kumar
-- 
-- # 📊 Description 
+  
+ # 📊 Description 
 ## Real-Time Sales Performance Dashboard
 
 A Power BI dashboard that provides real-time insights into product sales across regions, using timestamped simulated streaming data.
@@ -33,5 +33,5 @@ A Power BI dashboard that provides real-time insights into product sales across 
 This dashboard was created as part of an internship project to analyze and visualize **real-time sales data**. It allows users to filter by timestamp, region, and product to uncover trends and performance across various segments, helping stakeholders make informed decisions quickly.
 
 ## Output
-![Image](https://github.com/user-attachments/assets/c4a761c0-cea8-47ae-a59d-dc9dcaa9ca76)
+
 
