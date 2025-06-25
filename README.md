@@ -21,15 +21,15 @@ A Power BI dashboard that provides real-time insights into product sales across 
 - **Slicers** – Interactive filters for Region, Product, and Timestamp  
 - **Sales Records Table** – Detailed data with Product, Region, and Time breakdown  
 - **Modern, clear, and responsive layout**
-- 
+ 
 ## 🛠️ Tools & Technologies
 
 - Power BI Desktop  
 - Excel (used for simulated streaming input)  
 - DAX (used to create custom time field)  
 - Visualizations: Line chart, Pie chart, Card, Table, Slicers
-- 
-- ## 📌 Summary
+ 
+## 📌 Summary
 This dashboard was created as part of an internship project to analyze and visualize **real-time sales data**. It allows users to filter by timestamp, region, and product to uncover trends and performance across various segments, helping stakeholders make informed decisions quickly.
 
 ## Output
