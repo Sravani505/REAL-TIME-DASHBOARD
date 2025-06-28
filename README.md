@@ -1,5 +1,5 @@
 # REAL-TIME-DASHBOARD
-# 🎓 Internship Details - Power BI Dashboard
+# 🎓 Internship Details 
 
 - **Company Name:** CODTECH IT SOLUTIONS PRIVATE LIMITED  
 - **Intern Name:** Sravani  
